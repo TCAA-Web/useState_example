@@ -1,0 +1,30 @@
+.todoStyle {
+  padding: 32px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 80%;
+  div {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    p {
+      font-size: 1.4rem;
+    }
+  }
+  h3 {
+    text-align: center;
+    font-size: 2.4rem;
+  }
+  button {
+    width: 70%;
+    margin: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    height: 52px;
+    background-color: rgba(222, 222, 222, 0.5);
+    font-size: 1.2rem;
+    text-align: center;
+  }
+}

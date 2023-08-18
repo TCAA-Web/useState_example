@@ -1,0 +1,47 @@
+.contentStyleDark {
+    background-color: rgb(22,22,22);
+    height: 100vh;
+    h3 {
+        color:white;
+        font-size: 3rem;
+        padding: 1rem;
+    }
+    p{
+        color:white;
+        text-align: center;
+        padding: 1rem;
+    }
+}
+
+.buttonStyleDark {
+    width: 64px;
+    height: 32px;
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+}
+
+.buttonStyleLight {
+    width: 64px;
+    height: 32px;
+    background-color: white;
+    color: black;
+    border: solid 1px black;
+}
+
+.contentStyleLight {
+    background-color: rgb(222,222,222);
+    height: 100vh;
+
+    h3 {
+        color:black;
+        font-size: 3rem;
+        padding: 16px;
+        padding: 1rem;
+    }
+    p{
+        color: black;
+        text-align: center;
+        padding: 1rem;
+    }
+}
